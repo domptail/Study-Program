@@ -29,9 +29,10 @@
 
 ## 4. Machine Learning
 - Course on EdX: Principles of Machine Learning, Microsoft – DAT203.2x
+- Coursera: Machine Learning, Stanford University (Andrew Ng)
 - DataDriven [project](https://github.com/domptail/Tanzania-Water-Wells-ongoing): Predicting the Operational Status of Water Wells in Tanzania (using R)
 
-## Statistics
+## 5. Statistics
 
 ### Books
 -	Naked Statistics: Stripping the Dread from the Data, Charles Wheelan, 2013
