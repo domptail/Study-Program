@@ -1,5 +1,10 @@
 # Personal Data Science Study Program
 
+This is my ongoing data science study program using free (or reasonably priced) resources.
+
+## 0. Introduction
+- Course on EdX: Data Science Essentials, Microsoft - DAT203.1x (about 23 hours)
+
 ## 1. Data Visualization
 
 ### Excel
@@ -20,8 +25,8 @@
 ## 3. Programming
 
 ### Python
-- DataCamp: Intro to Python for Data Science (edX 1.1 to 6.2)
-- DataQuest: Limited number of free courses - I like the "mission" format and recommend subscribing
+- DataCamp: Intro to Python for Data Science (edX 1.1 to 6.2) (about 7 hours)
+- [DataQuest](https://www.dataquest.io): Limited number of free courses - I like the "mission" format and recommend subscribing
 - Personal [project](https://github.com/domptail/French-Names): An analysis of first names in France between 1900 and 2015
 
 ### R
@@ -30,6 +35,7 @@
 ## 4. Machine Learning
 - Course on EdX: Principles of Machine Learning, Microsoft – DAT203.2x
 - Coursera: Machine Learning, Stanford University (Andrew Ng)
+- [DataQuest](https://www.dataquest.io): Data Science Path
 - DataDriven [project](https://github.com/domptail/Tanzania-Water-Wells-ongoing): Predicting the Operational Status of Water Wells in Tanzania (using R)
 
 ## 5. Statistics
