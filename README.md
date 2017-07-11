@@ -38,9 +38,16 @@ This is my ongoing data science study program using free (or reasonably priced) 
 - [DataQuest](https://www.dataquest.io): Data Science Path
 - DataDriven [project](https://github.com/domptail/Tanzania-Water-Wells-ongoing): Predicting the Operational Status of Water Wells in Tanzania (using R)
 
-## 5. Statistics
+### Machine Learning Software
+- Microsoft Azure Machine Learning: The Microsoft / EdX course DAT203.2x is taught with Azure ML
+- Alteryx: Tutorial videos available on [Alteryx website](https://www.alteryx.com/product-training) or YouTube
 
-### Books
+## 5. Mathematics
+
+### Linear Algebra, Calculus
+- 3Blue1Brown: Very good videos with "maths animation" available on [3Blue1Brown YouTube channel](https://www.youtube.com/3Blue1Brown)
+
+### Statistics
 -	Naked Statistics: Stripping the Dread from the Data, Charles Wheelan, 2013
 -	Principles of Statistics, M.G. Bulmer, 1979
 
